@@ -1,4 +1,4 @@
-Passos Iniciais
+## Passos Iniciais
 Criar Repositório no GitHub
 
 Crie um novo repositório no seu GitHub e, dentro dele, clique no botão verde Code. Na aba Codespace, clique na opção Create codespace on main.
